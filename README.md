@@ -9,6 +9,9 @@ To understand the employee distribution of a company by conducting analysis in S
 5. Data Visualisation:Imported the query results into powerbi and then created visualisations using these csv files.
 6. Insights Generation:Exported the dashboard and surfaced insights from these visualisations and these were shared to the HR department for further analysis and decision making for better recuritement process,successful resource allocation and to implement HR policies for better utilisation and satisfaction of the employees.
 
+# Live Dashboard
+Explore the live dashboard [here](https://app.powerbi.com/links/03qHg8HjOv?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare).
+
 # Key Insights
 1. The proportion of male employees is more compared to the female employees.
 2. White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
